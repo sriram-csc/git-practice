@@ -1,2 +1,1 @@
-[main 9985e51] Added a terrible note
- 1 file changed, 1 insertion(+), 1 deletion(-)
+Add a terrible notes
