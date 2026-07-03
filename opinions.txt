@@ -1,1 +1,1 @@
-Best language is python
+Both rust and python is better
